@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://vivarium-collective.github.io/viva-docs/"><b>📖 Read the Users Guide →</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://vivariumlab.com/"><b>🔬 Vivarium Lab →</b></a>
 </p>
 
 ---
