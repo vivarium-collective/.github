@@ -1,6 +1,6 @@
 <h1 align="center">Vivarium Collective</h1>
 
-<p align="center"><em>Wire living models together.</em></p>
+<p align="center"><em>Compose living models.</em></p>
 
 <p align="center">
   <a href="https://vivarium-collective.github.io/viva-docs/"><b>📖 Read the Users Guide →</b></a>
