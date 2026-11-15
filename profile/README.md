@@ -32,10 +32,12 @@ and a [searchable module catalog](https://vivarium-collective.github.io/viva-doc
 | [**bigraph-schema**](https://github.com/vivarium-collective/bigraph-schema) | The type system beneath every store — types, ports, and the `apply` law that merges deltas so independent processes compose. |
 | [**process-bigraph**](https://github.com/vivarium-collective/process-bigraph) | The engine and the composite / process / step / template primitives — the tick scheduler and the emitters that record state. |
 | [**vivarium-workbench**](https://github.com/vivarium-collective/vivarium-workbench) | The AI-free dashboard server — investigations, studies, runs, analyses, and report cards, with every change committed to git. |
+| [**discovery-engine**](https://github.com/vivarium-collective/discovery-engine) | The scientific-investigation discovery cycle — drives an acquire → build → run → evaluate loop that turns open questions into auditable evidence, shared by the Workbench and the skills. |
 | [**viva-superpowers**](https://github.com/vivarium-collective/viva-superpowers) | The `/viva-*` Claude Code skills that author and run everything through the Workbench. All AI lives here, so the tool stays auditable. |
 
 ## Reference
 
 The framework is described in **Agmon &amp; Spangler, *Process bigraphs and the architecture
-of compositional systems biology*** (arXiv:2512.23754), which introduces **Vivarium 2.0** as
-the open-source implementation, demonstrated with the **Spatio-Flux** microbial-ecosystem library.
+of compositional systems biology*** ([PLOS Computational Biology **22**(10): e1014819, 2026](https://doi.org/10.1371/journal.pcbi.1014819)),
+which introduces **Vivarium 2.0** as the open-source implementation, demonstrated with the
+**Spatio-Flux** microbial-ecosystem library.
